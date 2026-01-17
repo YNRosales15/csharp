@@ -1,0 +1,14 @@
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\bin\Debug\net10.0\StringConcatenation.exe
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\bin\Debug\net10.0\StringConcatenation.deps.json
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\bin\Debug\net10.0\StringConcatenation.runtimeconfig.json
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\bin\Debug\net10.0\StringConcatenation.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\bin\Debug\net10.0\StringConcatenation.pdb
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.AssemblyInfoInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.AssemblyInfo.cs
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\refint\StringConcatenation.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.pdb
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\StringConcatenation.genruntimeconfig.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\StringConcatenation\obj\Debug\net10.0\ref\StringConcatenation.dll

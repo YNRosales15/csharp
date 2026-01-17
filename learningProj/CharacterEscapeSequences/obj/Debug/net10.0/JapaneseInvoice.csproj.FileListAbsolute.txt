@@ -1,0 +1,14 @@
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\bin\Debug\net10.0\JapaneseInvoice.exe
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\bin\Debug\net10.0\JapaneseInvoice.deps.json
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\bin\Debug\net10.0\JapaneseInvoice.runtimeconfig.json
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\bin\Debug\net10.0\JapaneseInvoice.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\bin\Debug\net10.0\JapaneseInvoice.pdb
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.AssemblyInfoInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.AssemblyInfo.cs
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.csproj.CoreCompileInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\refint\JapaneseInvoice.dll
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.pdb
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\JapaneseInvoice.genruntimeconfig.cache
+C:\Users\yessi\Documents\Projects\csharp\learningProj\JapaneseInvoice\obj\Debug\net10.0\ref\JapaneseInvoice.dll
