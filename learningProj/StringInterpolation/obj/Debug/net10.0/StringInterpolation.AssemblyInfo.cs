@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringInterpolation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd971a3448b42a3ee28496726661c7c0fdee6a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringInterpolation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringInterpolation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

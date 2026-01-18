@@ -12,3 +12,4 @@ C:\Users\yessi\Documents\Projects\csharp\learningProj\StringInterpolation\obj\De
 C:\Users\yessi\Documents\Projects\csharp\learningProj\StringInterpolation\obj\Debug\net10.0\StringInterpolation.pdb
 C:\Users\yessi\Documents\Projects\csharp\learningProj\StringInterpolation\obj\Debug\net10.0\StringInterpolation.genruntimeconfig.cache
 C:\Users\yessi\Documents\Projects\csharp\learningProj\StringInterpolation\obj\Debug\net10.0\ref\StringInterpolation.dll
+c:\Users\yessi\Documents\Projects\csharp\learningProj\StringInterpolation\obj\Debug\net10.0\StringInterpolation.sourcelink.json

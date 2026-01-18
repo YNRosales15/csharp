@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj": {}
+    "c:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj": {
+    "c:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj",
+        "projectUniqueName": "c:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj",
         "projectName": "StringInterpolation",
-        "projectPath": "C:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj",
+        "projectPath": "c:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\StringInterpolation.csproj",
         "packagesPath": "C:\\Users\\yessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\obj\\",
+        "outputPath": "c:\\Users\\yessi\\Documents\\Projects\\csharp\\learningProj\\StringInterpolation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
