@@ -1,0 +1,15 @@
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\bin\Debug\net10.0\tictactoeGame.exe
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\bin\Debug\net10.0\tictactoeGame.deps.json
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\bin\Debug\net10.0\tictactoeGame.runtimeconfig.json
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\bin\Debug\net10.0\tictactoeGame.dll
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\bin\Debug\net10.0\tictactoeGame.pdb
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.AssemblyInfoInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.AssemblyInfo.cs
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.csproj.CoreCompileInputs.cache
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.sourcelink.json
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.dll
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\refint\tictactoeGame.dll
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.pdb
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\tictactoeGame.genruntimeconfig.cache
+C:\Users\yessi\Documents\Projects\csharp\tictactoeGame\obj\Debug\net10.0\ref\tictactoeGame.dll
